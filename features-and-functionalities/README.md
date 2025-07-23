@@ -1,4 +1,4 @@
 # Featuer and functionalities.
 
 
-![fetures](screenshots/feature_functionalities.png)
+![fetures](../screenshots/feature_functionalities.png)
